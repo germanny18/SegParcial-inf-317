@@ -1,0 +1,2 @@
+id_cliente, nombre, apellido, edad, estado_civil, residencia
+cli21, Ana, Wiliams, 23, soltera, Miraflores
